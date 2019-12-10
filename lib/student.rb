@@ -15,4 +15,5 @@ class Student < User
   end
 
 
-end 	end
+end 	
+end
